@@ -1,10 +1,10 @@
-package com.hoangkimgia.cellphone;
+package com.hoangkimgia.cellphones;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CellphoneApplicationTests {
+class CellphonesApplicationTests {
 
 	@Test
 	void contextLoads() {

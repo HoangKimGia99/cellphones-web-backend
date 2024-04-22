@@ -1,13 +1,13 @@
-package com.hoangkimgia.cellphone;
+package com.hoangkimgia.cellphones;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CellphoneApplication {
+public class CellphonesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CellphoneApplication.class, args);
+		SpringApplication.run(CellphonesApplication.class, args);
 	}
 
 }
